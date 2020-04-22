@@ -1,2 +1,2 @@
 # first-repo
-DOn't judge, just learning Github.
+Don't judge, just learning Github.
